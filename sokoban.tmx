@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.8" tiledversion="1.8.1" orientation="orthogonal" renderorder="right-down" width="10" height="9" tilewidth="16" tileheight="16" infinite="0" nextlayerid="2" nextobjectid="1">
+ <tileset firstgid="1" source="underground.tsx"/>
+ <tileset firstgid="257" source="house.tsx"/>
+ <layer id="1" name="Tile Layer 1" width="10" height="9">
+  <data encoding="csv">
+163,163,163,163,163,163,163,163,163,163,
+163,163,163,163,163,163,163,163,163,163,
+163,163,163,163,163,278,163,163,163,163,
+163,163,163,163,163,116,163,163,163,163,
+163,163,163,163,163,116,116,163,163,163,
+163,163,163,278,116,116,116,163,163,163,
+163,163,163,163,163,163,163,163,163,163,
+163,163,163,163,163,163,163,163,163,163,
+163,163,163,163,163,163,163,163,163,163
+</data>
+ </layer>
+</map>
